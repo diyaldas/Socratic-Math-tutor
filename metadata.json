@@ -1,0 +1,6 @@
+{
+  "name": "Socratic Math Tutor - Compassionate Step-by-Step Learning",
+  "description": "A patient, Socratic AI math mentor that guides you through calculus and algebra step-by-step with deep conceptual intuition, scratchpad, and zero judgment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
